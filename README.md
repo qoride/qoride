@@ -1,4 +1,3 @@
-local player = game:GetService("Players").LocalPlayer
-print("hi im "..player.Name) --Anthony
+print("hi im Anthony")
 
 task.wait(math.huge)
